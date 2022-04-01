@@ -1,0 +1,33 @@
+{
+  "tasks": [
+    {
+      "title": "Tarefa 1",
+      "description": "Tarefa 1",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "Tarefa 2",
+      "description": "Tarefa 2",
+      "id": 2
+    }
+  ],
+  "itens": [
+    {
+      "taskId": "1",
+      "title": "item11",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "taskId": "2",
+      "title": "item11",
+      "id": 2
+    },
+    {
+      "taskId": "2",
+      "title": "item2",
+      "id": 3
+    }
+  ]
+}
